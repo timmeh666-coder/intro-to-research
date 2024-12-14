@@ -13,10 +13,19 @@ But there is not a lot of research done into the differnce of use of abbrevation
 
 # RQ and Hypothesis
 
+RQ: What is the difference in use of abbrevations between writers with an acadamic background and writers without one.
 
+Hypothesis: The acadamic educated writers will use more abbrevations than the not educated writers
 
+IV: the educational level
+DV: the amount of abbrevations used
+
+# methods 
+
+For this experiment 2 writers with known educational backgrounds will be selected and from project gutenborg 2 books of these writers will be selected.
+The books then will be looked through and in the end an abbrevations per page will be calculated 
 
 # references  
 Aguta-Ofoha, U. (2021). The Impact of SMS Language and Abbreviations on the Academic Writing of Secondary School Students (Master's thesis, uis).
-
+Braimoh, J. J. Decoding The Controversy: An Investigation Into The Impact Of Frequent Texting Language Use On Undergraduate Students' Academic Writing.
 
